@@ -83,7 +83,7 @@ console.log(maVariable === 9);
 //la console affichera "false"
 
 console.log(maVariable < 10);
-//la console affichera "false"
+//la console affichera "true"
 ```
 
 ## Les Fonctions
