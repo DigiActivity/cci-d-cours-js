@@ -109,7 +109,7 @@ Une fonction sert plus qu'à simplement écrire dans la console. Elle peut surto
 ```js
 //Voici une fonction qui renvoit une valeur au carré
 function carre(n) {
-	return n ** n;
+	return n ** 2;
 }
 
 let test = carre(4);
