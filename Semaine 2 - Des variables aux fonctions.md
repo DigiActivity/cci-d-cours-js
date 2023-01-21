@@ -26,8 +26,8 @@ console.log(maVariable);
 ## Les types de base
 
 ```js
-1 - //nombre entier (int)
-	5; //nombre entier aussi (int)
+1 //nombre entier (int)
+-5 //nombre entier aussi (int)
 
 2.7; //nombre à virgules (float)
 
