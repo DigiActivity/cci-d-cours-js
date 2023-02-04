@@ -81,3 +81,4 @@ maListe.forEach( (elt) => {
 } )
 ```
 
+Nous avons vu en fin de séance qu'il était possible de stocker des listes dans des listes, ce point sera plus abordé à la séance suivante
