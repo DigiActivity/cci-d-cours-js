@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body h1 {
+  text-align: center;
+  padding: 20px;
+}
+body section {
+  width: fit-content;
+  padding: 10px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+body section h2 {
+  text-align: center;
+  padding: 5px;
+}
+body section p {
+  text-align: justify;
+}
+body div.games h3 {
+  text-align: center;
+  padding: 5px;
+}
+body div.games ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+body div.games ul li {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body div.games ul li img {
+  width: 100px;
+  height: 100px;
+}
+body div.games ul li p {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
